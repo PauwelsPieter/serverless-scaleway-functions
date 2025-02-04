@@ -1,6 +1,6 @@
 {
   "name": "serverless-scaleway-functions-extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extension on Scaleway Functions plugin for the Serverless Framework v1.x which adds support for additional missing functions.",
   "main": "index.js",
   "author": "Pieter Pauwels",
