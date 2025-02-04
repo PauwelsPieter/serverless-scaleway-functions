@@ -1,12 +1,12 @@
 {
-  "name": "serverless-scaleway-functions",
-  "version": "0.4.14",
-  "description": "Provider plugin for the Serverless Framework v1.x which adds support for Scaleway Functions.",
+  "name": "serverless-scaleway-functions-extension",
+  "version": "1.0.0",
+  "description": "Extension on Scaleway Functions plugin for the Serverless Framework v1.x which adds support for additional missing functions.",
   "main": "index.js",
-  "author": "scaleway.com",
+  "author": "Pieter Pauwels",
   "license": "MIT",
   "repository": {
-    "git": "https://github.com/scaleway/serverless-scaleway-functions"
+    "git": "https://github.com/PauwelsPieter/serverless-scaleway-functions-nats-event"
   },
   "scripts": {
     "clean-up": "node tests/teardown.js",
